@@ -1,0 +1,87 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/smoking-status-cessation---primary.py
+inputModule3:
+  class: File
+  path: python/smoking-status-advice---primary.py
+inputModule4:
+  class: File
+  path: python/moderate-smoking-status---primary.py
+inputModule5:
+  class: File
+  path: python/smoking-status-amount---primary.py
+inputModule6:
+  class: File
+  path: python/smoking-status-nonsmoker---primary.py
+inputModule7:
+  class: File
+  path: python/smoking-status-cigar---primary.py
+inputModule8:
+  class: File
+  path: python/smoking-status-community---primary.py
+inputModule9:
+  class: File
+  path: python/smoking-status-never---primary.py
+inputModule10:
+  class: File
+  path: python/smoking-status-stopping---primary.py
+inputModule11:
+  class: File
+  path: python/smoking-status-reasons---primary.py
+inputModule12:
+  class: File
+  path: python/smoking-status---primary.py
+inputModule13:
+  class: File
+  path: python/smoking---primary.py
+inputModule14:
+  class: File
+  path: python/smoking-status-tobacco---primary.py
+inputModule15:
+  class: File
+  path: python/smoking-status-started---primary.py
+inputModule16:
+  class: File
+  path: python/smoking-status-replacement---primary.py
+inputModule17:
+  class: File
+  path: python/smoking-status-attendance---primary.py
+inputModule18:
+  class: File
+  path: python/smoking-status-therapy---primary.py
+inputModule19:
+  class: File
+  path: python/smoking-status-monitoring---primary.py
+inputModule20:
+  class: File
+  path: python/referral-smoking-status---primary.py
+inputModule21:
+  class: File
+  path: python/smoking-status-provided---primary.py
+inputModule22:
+  class: File
+  path: python/smoking-status-trying---primary.py
+inputModule23:
+  class: File
+  path: python/smoking-status-stopped---primary.py
+inputModule24:
+  class: File
+  path: python/smoking-status-advisor---primary.py
+inputModule25:
+  class: File
+  path: python/smoking-status-scale---primary.py
+inputModule26:
+  class: File
+  path: python/excessive-smoking-status---primary.py
+inputModule27:
+  class: File
+  path: python/clinic-smoking-status---primary.py
+inputModule28:
+  class: File
+  path: python/output-cases.py
